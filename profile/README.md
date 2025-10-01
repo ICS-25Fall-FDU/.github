@@ -4,7 +4,8 @@
 
 ## Lab
 
-Lab0: [GitLab](https://ics-25fall-fdu.github.io/lab/lab0)
+- Lab0: [GitLab](https://ics-25fall-fdu.github.io/lab/lab0)
+- Lab1: [DataLab](https://ics-25fall-fdu.github.io/lab/lab1)
 
 ## PJ
 
